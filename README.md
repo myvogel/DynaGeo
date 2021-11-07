@@ -13,6 +13,12 @@ Former shareware, but now open source!
 
 ![screenshot](https://user-images.githubusercontent.com/15887026/113513409-e7eb6300-9569-11eb-98f7-a577036411ea.png)
 
+## Modern Style
+Newly generated icons to get a fresh user interface...
+![Function Bar I](https://user-images.githubusercontent.com/92045664/140651709-c429cd4d-9caa-4f16-9b9a-0eed21a158c1.png)
+![Function Bar II](https://user-images.githubusercontent.com/92045664/140651714-b796a1f0-2858-4757-9b11-0b7765ca4fa4.png)
+
+
 
 ## Building the Project
 
