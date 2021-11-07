@@ -14,6 +14,7 @@ The interactive geometry and calculus application created by Roland Mechling. Fo
 ## Modern Style
 
 Newly generated icons to provide a fresh user interface (changes in MainWindow.dfm and Euklid.res). Also many new shortcuts has been added to increase working speed.
+
 ![Function Bar I](https://user-images.githubusercontent.com/92045664/140651709-c429cd4d-9caa-4f16-9b9a-0eed21a158c1.png)
 
 ![Function Bar II](https://user-images.githubusercontent.com/92045664/140651714-b796a1f0-2858-4757-9b11-0b7765ca4fa4.png)
